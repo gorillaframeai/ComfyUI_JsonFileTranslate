@@ -38,7 +38,7 @@ Where:
 
 Example Usage
 Assume you have a JSON file named data.json that you want to translate from Chinese to English, and you want to use 10 parallel tasks for the translation. Run the following command:
-python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 --lang ru
+python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 
 
 5. Results
 After the script completes execution, you will see informative messages in the console that help you understand what was done:
@@ -90,7 +90,7 @@ python jsontransate_lang.py <input_file> --source_lang <source_lang> --target_la
 
 Пример использования
 Предположим, у вас есть JSON файл data.json, который нужно перевести с китайского на английский, и вы хотите использовать 10 параллельных задач для перевода. Выполните следующую команду:
-python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 --lang ru
+python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 
 
 5. Результаты
 После завершения выполнения скрипта, вы увидите информативные сообщения в консоли, которые помогут вам понять, что было сделано:
@@ -142,7 +142,7 @@ python jsontransate_lang.py <input_file> --source_lang <source_lang> --target_la
 
 示例用法
 假设您有一个名为data.json的JSON文件，您希望将其从中文翻译成英文，并希望使用10个并行任务进行翻译。运行以下命令：
-python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 --lang ru
+python jsontransate_lang.py data.json --source_lang zh-CN --target_lang en --max_workers 10 
 
 5. 结果
 脚本完成执行后，您将在控制台中看到有助于理解完成情况的信息消息：
