@@ -10,7 +10,7 @@ To run the script, you need to install the following dependencies:
 - argparse: Library for command-line argument parsing (already included in the standard Python library).
 
 To install the necessary dependencies, run the following command in the command line or terminal:
-pip install deep-translator argparse
+pip install deep-translator
 or run the requirements.txt file:
 pip install -r requirements.txt
 
@@ -62,7 +62,7 @@ https://www.python.org/downloads/
 - argparse: Библиотека для обработки аргументов командной строки (уже включена в стандартную библиотеку Python).
 
 Для установки необходимых зависимостей выполните следующую команду в командной строке или терминале:
-pip install deep-translator argparse
+pip install deep-translator
 или запустите файл requirements.txt:
 pip install -r requirements.txt
 
@@ -114,7 +114,7 @@ https://www.python.org/downloads/
 - argparse：用于命令行参数解析的库（已包含在Python标准库中）。
 
 要安装所需的依赖项，请在命令行或终端中运行以下命令：
-pip install deep-translator argparse
+pip install deep-translator
 或运行requirements.txt文件：
 pip install -r requirements.txt
 
